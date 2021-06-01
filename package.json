@@ -1,0 +1,22 @@
+{
+    "name": "flutter-light-theme",
+    "displayName": "Flutter Light Theme",
+    "publisher": "maneesh",
+    "description": "Light Theme for Flutter",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flutter Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Flutter Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
