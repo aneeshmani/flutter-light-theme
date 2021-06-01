@@ -2,6 +2,9 @@
     "name": "flutter-light-theme",
     "displayName": "Flutter Light Theme",
     "publisher": "maneesh",
+    "repository": {
+        "url": "https://github.com/aneeshmani/flutter-light-theme.git"
+    },
     "description": "Light Theme for Flutter",
     "version": "1.0.0",
     "engines": {
