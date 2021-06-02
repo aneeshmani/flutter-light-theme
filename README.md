@@ -4,4 +4,7 @@ I could not find any Light Theme that could work seamlessly with Flutter differe
 
 <img src="./screens/screen_1.PNG">
 
+v2.0.0
+  - Increased Contrast and Updated for XML as well , since Flutter needs to update XML files often
+  - Removed any references to the extension .dart to make it generic
 
