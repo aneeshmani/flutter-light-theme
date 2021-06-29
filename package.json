@@ -21,5 +21,8 @@
                 "path": "./themes/Flutter Light Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "node": "^16.4.0"
     }
 }
