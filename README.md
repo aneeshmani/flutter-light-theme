@@ -8,3 +8,6 @@ v2.0.0
   - Increased Contrast and Updated for XML as well , since Flutter needs to update XML files often
   - Removed any references to the extension .dart to make it generic
 
+v2.1.0
+  - Updated colors for 'Go To File' Panel
+
