@@ -2,6 +2,11 @@
 	"name": "Flutter Light Theme",
 	"type": "light",
 	"colors": {
+		"list.activeSelectionBackground": "#aaa",
+		"list.filterMatchBackground": "#aaa",
+		"list.highlightForeground": "#000000",
+		"list.hoverBackground": "#aaa",
+		"list.hoverForeground": "#FFF",
 		"editor.background": "#fefefe",
 		"editor.foreground": "#000000",
 		"editorSuggestWidget.highlightForeground": "#00F",
