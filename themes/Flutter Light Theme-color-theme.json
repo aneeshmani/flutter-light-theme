@@ -5,7 +5,7 @@
 		"list.activeSelectionBackground": "#aaa",
 		"list.filterMatchBackground": "#aaa",
 		"list.highlightForeground": "#000000",
-		"list.hoverBackground": "#aaa",
+		"list.hoverBackground": "#ccc",
 		"list.hoverForeground": "#FFF",
 		"editor.background": "#fff",
 		"editor.foreground": "#000000",
@@ -35,7 +35,7 @@
 		"editor.lineHighlightBackground": "#EEE",
 		"settings.textInputForeground": "#000",
 		"settings.checkboxForeground": "#000",
-		"debugConsole.infoForeground": "#6818FC",
+		"debugConsole.infoForeground": "#a3390f",
 		"editorLightBulb.foreground": "#FF8C00",
 		"settings.numberInputForeground": "#000",
 		"settings.headerForeground": "#000",
@@ -51,14 +51,15 @@
 		"notificationsInfoIcon.foreground": "#00F",
 		"notificationLink.foreground": "#232122",
 		"terminal.background": "#FFF",
-		"terminal.foreground": "#232122",
+		"terminal.foreground": "#000",
 		"terminalCursor.background": "#232122",
 		"terminalCursor.foreground": "#232122",
 		"terminal.ansiCyan": "#00f",
 		"terminal.ansiGreen": "#008A00",
 		"terminal.ansiMagenta": "#00f",
 		"terminal.ansiWhite": "#FFFF00",
-		"terminal.ansiYellow": "#232122"
+		"terminal.ansiYellow": "#232122",
+		"terminal.ansiBrightYellow": "#00F"
 	},
 	"tokenColors": [
 		{

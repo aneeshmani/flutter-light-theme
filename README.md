@@ -11,3 +11,6 @@ v2.0.0
 v2.1.0
   - Updated colors for 'Go To File' Panel
 
+v2.1.1
+  - Updated colors for better contrast in terminal and editor/explorer
+
